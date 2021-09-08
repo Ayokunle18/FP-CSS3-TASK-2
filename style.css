@@ -47,13 +47,11 @@ body {
   align-items: center;
 }
 .grey .divide1 {
-  background-color: blue;
   width: 50%;
   margin-right: 10px;
   text-align: start;
 }
 .grey .divide2 {
-  background-color: blueviolet;
   margin-left: 10px;
   text-align: start;
   width: 50%;
